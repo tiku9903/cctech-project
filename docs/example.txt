@@ -1,0 +1,5 @@
+This is an example document to demonstrate the RAG chatbot.
+
+You can put any text content into separate files in this `docs/` folder.
+
+Example: The capital of France is Paris.
